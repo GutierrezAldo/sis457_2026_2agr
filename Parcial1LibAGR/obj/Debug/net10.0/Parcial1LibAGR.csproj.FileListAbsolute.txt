@@ -1,0 +1,12 @@
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\bin\Debug\net10.0\Parcial1LibAGR.deps.json
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\bin\Debug\net10.0\Parcial1LibAGR.dll
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\bin\Debug\net10.0\Parcial1LibAGR.pdb
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\Parcial1LibAGR.GeneratedMSBuildEditorConfig.editorconfig
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\Parcial1LibAGR.AssemblyInfoInputs.cache
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\Parcial1LibAGR.AssemblyInfo.cs
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\Parcial1LibAGR.csproj.CoreCompileInputs.cache
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\Parcial1LibAGR.dll
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\refint\Parcial1LibAGR.dll
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\Parcial1LibAGR.pdb
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\ref\Parcial1LibAGR.dll
+C:\457 2026 2\SIS457\sis457_2026_2AG\Parcial1LibAGR\Parcial1LibAGR\obj\Debug\net10.0\Parcial1.EB9A6A7A.Up2Date
